@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-04-12T01:55:10.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="k7GPa3XEvrO8xtXqEgnf" version="24.2.3" type="github">
+  <diagram name="Page-1" id="9IQ5RdG5QTY0pQW8eQgf">
+    <mxGraphModel dx="819" dy="454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X_oClPnk40AlakHUKPo7-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.searchenginejournal.com/wp-content/uploads/2023/12/tree-of-thoughts-6592438fe4198-sej.png;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="445" height="536" as="geometry" />
+        </mxCell>
+        <mxCell id="X_oClPnk40AlakHUKPo7-2" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_oClPnk40AlakHUKPo7-3" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_oClPnk40AlakHUKPo7-4" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
